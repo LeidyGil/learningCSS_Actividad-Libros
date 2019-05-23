@@ -1,0 +1,19 @@
+h1 {
+    color: #6495ED; 
+}
+
+h2 {
+    color: #87CEFA;
+}
+
+h3 {
+    color: #708090;
+}
+
+h1,h2,h3,p {
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    background: #FDF5E6;
+}
